@@ -1,0 +1,15 @@
+2022-November-14-14:43 *PROGRAM STARTED*
+2022-November-14-14:43 Adding line: hej med dig 
+2022-November-14-14:43 *PROGRAM ENDED*
+2022-November-14-14:44 *PROGRAM STARTED*
+2022-November-14-14:44 *PROGRAM STARTED*
+2022-November-14-14:44 Adding line: hej med dig 1
+2022-November-14-14:44 *PROGRAM STARTED*
+2022-November-14-14:44 Adding line: hej med dig 1
+2022-November-14-14:44 *PROGRAM ENDED*
+2022-November-14-14:46 *PROGRAM STARTED*
+2022-November-14-14:46 Adding line: hello in english
+2022-November-14-14:46 *Viewing Files*
+2022-November-14-14:46 *PROGRAM ENDED*
+2022-November-20-12:56 *PROGRAM STARTED*
+2022-November-20-12:56 *PROGRAM ENDED*
